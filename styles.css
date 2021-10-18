@@ -93,11 +93,11 @@ select {
 }
 
 .sheet {
-  background-color: #b08a89;
+  background-color: #ffb6c1;
   width: 1rem;
   text-align: center;
   border-radius: 0.083rem;
-  box-shadow: 0.125rem 0.083rem 0.083rem gray;
+  box-shadow: 0.125rem 0.083rem 0.083rem #b08a89;
   margin-right: 0.2rem;
 }
 
